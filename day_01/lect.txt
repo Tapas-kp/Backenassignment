@@ -1,0 +1,3 @@
+nodejs==>v8engine+otherstuffs
+==>node modules==>node ke modules
+modules==> anything that you export in javascript  is called module
